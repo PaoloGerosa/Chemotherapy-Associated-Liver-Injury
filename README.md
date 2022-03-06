@@ -1,9 +1,11 @@
 # Chemotherapy-Associated-Liver-Injury
 The rationale is to verify whether digital tissue samples' intrinsic heterogeneity can differentiate between healthy and diseased livers.
-HYPOTHESIS: heterogeneity in the volumes highlights the presence of CALI, Chemotherapy associated liver injury.
+
+Hypothesis: heterogeneity in the volumes highlights the presence of CALI, Chemotherapy associated liver injury.
+
 Goals:
-- INVESTIGATE THE RELATIONSHIP BETWEEN HETEROGENEITY OF VIRTUAL BIOPSY AND CALI
-- GIVEN A PATIENT TRY TO UNDERSTAND IF SHE/HE IS LIKELY TO DEVELOP CALI AS A CONSEQUENCE OF CHEMOTHERAPY
+- Investigate the relationship between heterogeneity of virtual biopsy and cali
+- Given a patient try to understand if she/he is likely to develop cali as a consequence of chemotherapy
 
 # Data
 
