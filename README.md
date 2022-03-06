@@ -18,6 +18,9 @@ In addition, clinical variables of patients are available for further analysis:
 - IPA - Arterial Hypertension (43%)
 - Post-operative complications (33%)
 
+# Code
+The main script is `Cali_beta.ipynb`; this script uses the other files to do Functional Clustering using the entropy of the volumes and Clustering using filtering functions on the virtual biopsy in order to remove noise and reduce the dimension of the information.
+
 ## Authors
 * [Matteo Tomasetto](https://github.com/MatteoTomasetto)
 * [Paolo Gerosa](https://github.com/PaoloGerosa)
