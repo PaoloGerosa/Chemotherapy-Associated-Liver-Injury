@@ -19,7 +19,11 @@ In addition, clinical variables of patients are available for further analysis:
 - Post-operative complications (33%)
 
 # Code
-The main script is `Cali_beta.ipynb`; this script uses the other files to do Functional Clustering using the entropy of the volumes and Clustering using filtering functions on the virtual biopsy in order to remove noise and reduce the dimension of the information.
+The main script is `Cali_beta.ipynb`; after a graphical and mathematical analysis which allows to make hypothesis to solve the problem this script mainly uses the other auxiliary scripts to do Functional Clustering using the entropy of the volumes and Clustering using filtering functions on the virtual biopsy in order to remove noise and reduce the dimension of the information. 
+
+For the Unsupervised learning part the script 'Distances.py' is the one which defines the different metrics perfomed on the volumes to define a distance between two volumes. 
+
+The script 'Kernel.py' performs different type of volumes transformation (using filtering functions).
 
 ## Authors
 * [Matteo Tomasetto](https://github.com/MatteoTomasetto)
