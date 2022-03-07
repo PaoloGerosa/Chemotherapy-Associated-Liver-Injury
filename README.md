@@ -32,4 +32,4 @@ The script `Kernel.py` performs different type of volumes transformation (using 
 * [Paolo Gerosa](https://github.com/PaoloGerosa)
 * [Lupo Marsigli](https://github.com/LupoMarsigli)
 * [Francesco Romeo](https://github.com/fraromeo)
-* [Sebastiano Rossi](https://github.com/)
+* [Sebastiano Rossi](https://github.com/Seb1198)
